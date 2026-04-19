@@ -17,7 +17,11 @@ This project is a 3D CAD model of a drone designed using SolidWorks. It includes
 
 ## 📸 Preview
 
-(Add images below)
+## 📸 Preview
+
+![Drone View 1](drone_view1.png)
+![Drone View 2](drone_view2.png)
+![Drone View 3](drone_view3.png)
 
 ## 🎯 Purpose
 
